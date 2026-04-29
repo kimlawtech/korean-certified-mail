@@ -77,7 +77,7 @@ powershell -ExecutionPolicy Bypass -File install.ps1
 Claude Code에서:
 
 ```
-/certified-mail
+/korean-certified-mail
 ```
 
 또는 자연어로:
