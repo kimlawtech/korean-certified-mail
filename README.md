@@ -1,8 +1,9 @@
 # korean-certified-mail
 
-> **SpeciAI** — 국내 최초·최대 한국 법률 AI 허브
-> 창업자·전문직을 위한 법률 자동화 도구를 오픈소스로 만들고 있습니다.
-> 웹사이트: **https://speciai.kr** | 커뮤니티: **https://discord.gg/3gYGuMcqgb** | @kimlawtech
+> 한국 도메인 특화 AI **스페시아이**에서 만듭니다.
+> 법률·세무·노무·회계·의료 실무에 쓰는 도구를 오픈소스로 공개하고,
+> 완성 제품은 [speciai.kr](https://speciai.kr) 에서 운영합니다.
+> → 제품 [speciai.kr/plugin](https://speciai.kr/plugin) · 커뮤니티 [디스코드](https://discord.gg/hqdGsY7UpH)
 
 ---
 
@@ -125,7 +126,7 @@ MCP 서버 없이도 내용증명 작성이 가능합니다.
 ## 커뮤니티 및 기여
 
 - 웹사이트: https://speciai.kr
-- 디스코드: https://discord.gg/3gYGuMcqgb
+- 디스코드: https://discord.gg/hqdGsY7UpH
 - GitHub Issues / PR 환영합니다.
 
 ---
@@ -133,3 +134,26 @@ MCP 서버 없이도 내용증명 작성이 가능합니다.
 ## 라이선스
 
 Apache-2.0
+
+---
+
+## 만든 곳
+
+[스페시아이](https://speciai.kr)는 법률·세무·노무·회계·의료 실무에 쓰는
+도메인 특화 AI를 만듭니다. 한국능률협회와 AI 교육과정을 공동 개설했고,
+전문직 세미나에 누적 500명 이상이 참여했습니다.
+
+- 제품 전체 — <https://speciai.kr/services>
+- Claude Code 플러그인 (법무·노무·세무 자문) — <https://speciai.kr/plugin>
+- 전문직 AI 세미나 (월 1회) — <https://speciai.kr/seminar>
+- 커뮤니티 — <https://discord.gg/hqdGsY7UpH>
+
+### 함께 만든 오픈소스
+
+| 저장소 | 내용 | |
+|---|---|---|
+| [korean-privacy-terms](https://github.com/kimlawtech/korean-privacy-terms) | 처리방침·이용약관 자동 생성 | 569★ |
+| [korean-jangbu-for](https://github.com/kimlawtech/korean-jangbu-for) | 장부 자동 생성·OCR | 80★ |
+| [korean-contracts](https://github.com/kimlawtech/korean-contracts) | 한국 계약서 9종 | 61★ |
+| [korean-patent-diagram](https://github.com/kimlawtech/korean-patent-diagram) | 특허 도면 자동 생성 (KIPO 규격) | 18★ |
+| [korean-domain-agent](https://github.com/kimlawtech/korean-domain-agent) | 도메인 특화 LLM 에이전트 킷 | 5★ |
